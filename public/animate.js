@@ -1,5 +1,5 @@
 // List of sentences
-var _CONTENT = ["r customers.", "r sales.", "r success.", "."];
+var _CONTENT = ["r customers.", "r success.", "."];
 
 // Current sentence being processed
 var _PART = 0;
